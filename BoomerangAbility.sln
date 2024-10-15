@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoomerangAbility", "BoomerangAbility\BoomerangAbility.csproj", "{0E781876-FBFC-41BD-893F-689C08647703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E781876-FBFC-41BD-893F-689C08647703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E781876-FBFC-41BD-893F-689C08647703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E781876-FBFC-41BD-893F-689C08647703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E781876-FBFC-41BD-893F-689C08647703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F9517F1-E39F-48CC-B640-1241887FE8C1}
+	EndGlobalSection
+EndGlobal
